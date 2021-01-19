@@ -1,0 +1,18 @@
+input[type=text]{
+    box-sizing: border-box;
+    width: 50%;
+    border: 2px solid #ccc;
+    border-radius: 25px;
+    background-position: 10px 10px;
+    padding: 12px 20px 12px 40px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    margin-top: 20%;
+    margin-left: 23%;
+    margin-right: 23%;
+    outline: none;
+    background-color: rgb(247, 242, 175);
+}
+body{
+    background-color: #121212;
+}
